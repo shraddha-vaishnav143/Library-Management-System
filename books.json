@@ -1,0 +1,23 @@
+[
+    {
+        "book_id": "122435",
+        "book_name": "winner or looser",
+        "author": "shraddha",
+        "category": "business",
+        "available_copies": 73
+    },
+    {
+        "book_id": "2110",
+        "book_name": "do it again ",
+        "author": "shree",
+        "category": "business",
+        "available_copies": 58
+    },
+    {
+        "book_id": "4567",
+        "book_name": "do epic shit",
+        "author": "henery",
+        "category": "life mistakes",
+        "available_copies": 99
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "student_id": "raj@123",
+        "student_name": "raj sharma",
+        "department": "cse",
+        "contact": "708*****40"
+    },
+    {
+        "student_id": "priya@432",
+        "student_name": "priya vaishnav",
+        "department": "aids",
+        "contact": "997*****82"
+    }
+]
